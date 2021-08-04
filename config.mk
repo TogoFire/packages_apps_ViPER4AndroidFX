@@ -5,3 +5,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     ViPER4AndroidFX
+
+# Time to relax
+RELAX_USES_LIBRARY_CHECK := true
