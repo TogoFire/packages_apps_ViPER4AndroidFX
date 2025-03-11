@@ -7,7 +7,7 @@ android_app_import {
     dex_preopt: {
         enabled: false,
     },
-    overrides: ["AudioFX"],
+    overrides: ["AudioFX", "MusicFX"],
 }
 
 cc_prebuilt_library_shared {
